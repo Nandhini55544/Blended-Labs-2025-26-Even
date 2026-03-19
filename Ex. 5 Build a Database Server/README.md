@@ -2,9 +2,8 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Nandhini M
+* **Register Number**: 212224040211
 
 ---
 
@@ -82,13 +81,11 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Create a Security Group for RDS
+2. Create a DB Subnet Group
+3. Launch an RDS MySQL DB Instance
+4. Configure Connectivity and Security
+5. Connect Web App to Database and Test
 
 ---
 
@@ -96,22 +93,29 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+
+<img width="1919" height="1034" alt="Screenshot 2026-03-19 092302" src="https://github.com/user-attachments/assets/129c2947-2478-4d47-9242-859de0140871" />
+
+
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+
+<img width="1919" height="1092" alt="Screenshot 2026-03-19 092747" src="https://github.com/user-attachments/assets/b9308926-367c-401d-a50a-d8240efe004f" />
+
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+
+<img width="1918" height="1078" alt="Screenshot 2026-03-19 100442" src="https://github.com/user-attachments/assets/7591eecb-50be-4892-a8da-25ba02417d2c" />
+
 
 ---
 
 ## Result
 
-This experiment demonstrated how to build a database server in AWS using an EC2 instance. By installing and configuring a DBMS, creating a sample database, and testing connectivity, the fundamentals of hosting and managing a cloud-based database server were underst
+This experiment demonstrated how to build a database server in AWS using an EC2 instance. By installing and configuring a DBMS, creating a sample database, and testing connectivity, the fundamentals of hosting and managing a cloud-based database server were understood.
